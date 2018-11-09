@@ -11,7 +11,7 @@
 ## 书单
 
 编号|名称|类别|内容
----|:---:|---:
+---|:---:|---:|---:
 001|Long Short-Term Memory in Recurrent Neural Networks|book|LSTM
 002|Neural Machine Translation by Jointly Learning to Align and Translate|paper|MT-LSTM
 003|A Hierarchical Neural Auto-Encoder for Paragraphs and Documents|paper|AE-LSTM
