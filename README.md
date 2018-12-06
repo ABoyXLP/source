@@ -20,23 +20,23 @@
 006|Sequence to Sequence Learning with Neural Networks|paper|SEQ2SEQ
 007|Factorization Machines|paper|FM
 008|Field-aware Factorization Machines for CTR Prediction|paper|FFM
-009|Convolutional Neural Networks for Sentence Classification|CNN-NLP
-010|Deep Convolutional Neural Networks for Sentiment Analysis of Short Texts|CNN-NLP-SENTIMENT ANALYSIS
-011|A Convolutional Neural Networks for Modelling Sentence|CNN-NLP
-012|Effective Use of Word Order for Text Categorization with Convolutional Neural Networks|CNN-NLP-TEXT CATEGORIZATION
-013|Semantic Clustering and Convolutional Neural Network for Short Text Categorization|CNN-NLP-SHORT-TEXT CATEGORIZATION
-014|Semi-supervised Convolutional Neural Networks for Text Categorization via Region Eembedding|CNN-NLP-TEXT CATEGORIZATION
-015|Relation Extration: Perspective from Convolutional Neural Networks|CNN-NLP
-016|A Sensitivity Analysis of (and Practitioners' Guide to) Convolutional Neural Networks for Sentence Classification|CNN-NLP
-017|Modeling Mention, Context and Entity with Neural Networks for Entity Disambiguation|
-018|Relation Classification via Convolutional Deep Neural Network|CNN-RELATION
-019|Modeling Interestingness with Deep Neural Networks|
-020|A Latent Semantic Model with Convolutional-Pooling Structure for Information Retrieval|
-021|Learning Character-level Representations for Part-of-Speech Tagging|CNN-NLP-BASED-CHARACTER
-022|Character-level Convolutional Networks for Text Classification|CNN-NLP-BASED-CHARACTER
-023|Text Understanding from Scratch|
-024|Character-Aware Neural Language Models|
-025|#Tag Space: Semantic Embedding from Hashtags|
+009|Convolutional Neural Networks for Sentence Classification|paper|CNN-NLP
+010|Deep Convolutional Neural Networks for Sentiment Analysis of Short Texts|paper|CNN-NLP-SENTIMENT ANALYSIS
+011|A Convolutional Neural Networks for Modelling Sentence|paper|CNN-NLP
+012|Effective Use of Word Order for Text Categorization with Convolutional Neural Networks|paper|CNN-NLP-TEXT CATEGORIZATION
+013|Semantic Clustering and Convolutional Neural Network for Short Text Categorization|paper|CNN-NLP-SHORT-TEXT CATEGORIZATION
+014|Semi-supervised Convolutional Neural Networks for Text Categorization via Region Eembedding|paper|CNN-NLP-TEXT CATEGORIZATION
+015|Relation Extration: Perspective from Convolutional Neural Networks|paper|CNN-NLP
+016|A Sensitivity Analysis of (and Practitioners' Guide to) Convolutional Neural Networks for Sentence Classification|paper|CNN-NLP
+017|Modeling Mention, Context and Entity with Neural Networks for Entity Disambiguation|paper|CNN-RELATION-EXTRACTION AND CLASSIFICATION
+018|Relation Classification via Convolutional Deep Neural Network|paper|CNN-RELATION
+019|Modeling Interestingness with Deep Neural Networks|paper|CNN-NLP-INFORMATION RETRIEVAL
+020|A Latent Semantic Model with Convolutional-Pooling Structure for Information Retrieval|paper|CNN-NLP-INFORMATION RETRIEVAL
+021|Learning Character-level Representations for Part-of-Speech Tagging|paper|CNN-NLP-BASED-CHARACTER
+022|Character-level Convolutional Networks for Text Classification|paper|CNN-NLP-BASED-CHARACTER
+023|Text Understanding from Scratch|paper|CNN-NLP-BASED-CHARACTER
+024|Character-Aware Neural Language Models|paper|CNN-NLP-CHARACTER LEVEL APPLY TO LANGUAGE MODEL
+025|#Tag Space: Semantic Embedding from Hashtags|paper|CNN-NLP-SENTENCE TAG-EMBDDING
 
 ---------------
 
